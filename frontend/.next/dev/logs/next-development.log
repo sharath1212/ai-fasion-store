@@ -1,0 +1,4 @@
+{"timestamp":"00:00:04.501","source":"Server","level":"LOG","message":""}
+{"timestamp":"00:07:06.831","source":"Server","level":"LOG","message":"✓ Compiled in 89ms"}
+{"timestamp":"00:10:51.382","source":"Server","level":"LOG","message":"✓ Compiled in 114ms"}
+{"timestamp":"00:10:51.606","source":"Browser","level":"LOG","message":"Refreshing page data due to server-side change"}
